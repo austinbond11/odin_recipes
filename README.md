@@ -1,2 +1,2 @@
-# odin_recipes
-
+Lasagna Recipe Site
+Welcome to the Lasagna Recipe Site! This project is a simple, static website built using only HTML. It showcases a delicious lasagna recipe that is satisfying and filling, perfect for any lasagna lover. This project is part of my learning journey with The Odin Project.
